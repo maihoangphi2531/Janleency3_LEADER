@@ -14,7 +14,7 @@ local partyMembers = { "leynaop1", "leynaop2","leynaop3","leynaop4",}
 
 -- PlaceId & JobId mục tiêu
 local PLACE_ID_TARGET = 4310463616
-local JOB_ID_TARGET   = "a6d4bb0c-1fa6-4d34-a01d-e6dbce8931c8"
+local JOB_ID_TARGET   = "0a5982d7-cfae-4abc-a491-a75e08a03461"
 
 -- Thư mục Parties
 local Parties = ReplicatedStorage:FindFirstChild("Parties")
