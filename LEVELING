@@ -9,8 +9,8 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LocalPlayer = Players.LocalPlayer
 
 -- Thông tin leader và thành viên
-local partyLeaderName = "Janleency3"
-local partyMembers = { "Robloxian1w7q9x6y", "Robloxianv4f3f8w0n","Robloxiang0n5j6j6m","Robloxianm3j6y3b7i",}
+local partyLeaderName = "Janleency4"
+local partyMembers = { "leynaop1", "leynaop2","leynaop3","leynaop4",}
 
 -- PlaceId & JobId mục tiêu
 local PLACE_ID_TARGET = 4310463616
